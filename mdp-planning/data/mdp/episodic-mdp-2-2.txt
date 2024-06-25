@@ -1,5 +1,5 @@
-numStates 2
-numActions 2
+numStates 4
+numActions 5
 end 0
 transition 1 0 1 0.9309297727238344 0.6539263377345379
 transition 1 0 0 -0.0281446068743747 0.3460736622654621
